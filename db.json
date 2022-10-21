@@ -1,0 +1,33 @@
+{
+  "products": [
+    {"id": 1,
+    "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.decoraid.com%2Fblog%2F25-best-sofas-couches-buy-2019%2F&psig=AOvVaw3HW7CaBpD0W7XcvcijyzLF&ust=1666438029281000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKD6rMqb8foCFQAAAAAdAAAAABAF",
+    "name": "Sofa",
+    "price": "389,99"
+  },
+  
+  {"id": 2,
+  "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.justdial.com%2FPune%2FRevolving-Chair-Repair-Services%2Fnct-10993939&psig=AOvVaw3o09uWrMspsRPaqcdlVyqb&ust=1666438141161000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJCe4v-b8foCFQAAAAAdAAAAABAK",
+  "name": "Chair",
+  "price": "49,99"
+  },
+  
+   {"id": 3,
+  "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.scp.co.uk%2Fproducts%2Fbruno-armchair&psig=AOvVaw08fvTzqJDqgitmbP2Rna4u&ust=1666438202815000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPiuhZ2c8foCFQAAAAAdAAAAABAF",
+  "name": "Armchair",
+  "price": "75,99"
+  },
+  
+   {"id": 4,
+  "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.meubles-gautier.ca%2Fen_GB%2Fp%2Fedito-charcoal-wood-chair&psig=AOvVaw3gHAn3NwoR7JexaAax2RKR&ust=1666438334355000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNj-ndyc8foCFQAAAAAdAAAAABAJ",
+  "name": "wood chair",
+  "price": "40,99"
+  } ,
+  
+  {"id": 5,
+  "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F929360073077289358%2F&psig=AOvVaw03DgleAbibUHK07qCh3FNV&ust=1666438399055000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCW2_qc8foCFQAAAAAdAAAAABAJ",
+  "name": "Bed",
+  "price": "750,00"
+  }
+  ]
+  }
